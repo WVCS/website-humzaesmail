@@ -1,3 +1,18 @@
 body {
+  background-color: #d6eaf8;
+}
+h2 {
+  color: navy;
+  font-family: "Lucida Console", monospace;
+  font-size: 200%;
+  text-decoration-line: overline underline;
+  text-decoration-color: darkgrey;
+  text-shadow: 2px 2px 1px grey;
+}
 
+img {
+  width: 25%
+}
+img:hover {
+  content: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWUKwT9Xo9-eW3lVu_PCX4SoTuGf9PpzdHQg&s")
 }
