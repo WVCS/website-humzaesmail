@@ -32,6 +32,14 @@ h2 {
   text-decoration-color: darkgrey;
   text-shadow: 2px 2px 1px grey;
 }
+h1 {
+  color: darkgrey;
+  font-family: "Lucida Console", monospace;
+  font-size: 150%;
+  text-decoration-line: underline;
+  text-decoration-color: navy;
+  text-shadow: 1px 1px 1px grey;
+}
 img {
   width: 25%
 }
