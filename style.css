@@ -1,6 +1,29 @@
 body {
   background-color: #d6eaf8;
 }
+ul {
+  list-style-type: none;
+  background-color: grey;
+  margin: 0;
+  width: 100%;
+  padding: 20px;
+  top: 0;
+  left: 0; 
+  position: fixed;
+}
+li {
+  display: inline;
+  padding: 16px 40px;
+}
+a {
+  text-decoration: none;
+  color: #d6eaf8;
+  font-variant: small-caps;
+}
+li a:hover {
+  background-color: darkgrey;
+  padding: 20px 10px;
+}
 h2 {
   color: navy;
   font-family: "Lucida Console", monospace;
@@ -8,14 +31,6 @@ h2 {
   text-decoration-line: overline underline;
   text-decoration-color: darkgrey;
   text-shadow: 2px 2px 1px grey;
-}
-h1 {
-  color: darkgrey;
-  font-family: "Lucida Console", monospace;
-  font-size: 150%;
-  text-decoration-line: underline;
-  text-decoration-color: navy;
-  text-shadow: 1px 1px 1px grey;
 }
 img {
   width: 25%
